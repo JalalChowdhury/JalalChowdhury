@@ -38,12 +38,13 @@ Hi, I'm Jalal Chowdhury!
 </p>
 -->
 
+<p>
 <pre>
 💻 I am a self taught MERN Stack Developer
 🌟 Main languages: C++, Python, JavaScript
 🚩  I’m currently learning Machine Learning and NLP
 📫 How to reach me jalalchowdhurycse1999@gmail.com
-
+</p>
 <br/>
 
 ## Connect with me
